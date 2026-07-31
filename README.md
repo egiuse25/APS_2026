@@ -16,4 +16,3 @@ Este repositorio contiene una colección de trabajos prácticos y simulaciones d
 * Python
 * Jupyter Notebook
 * Librerías: NumPy, SciPy, Matplotlib
-*
